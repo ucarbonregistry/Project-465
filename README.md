@@ -17,6 +17,20 @@ Sources)
 
 Estimated amount of total GHG emission reductions 
 13,11,183 CoUs (13,11,183 tCO2eq) 
+
+PRIOR HISTORY
+______
+The project activity initially submitted a Prior Consideration under the Clean Development 
+Mechanism (CDM) of the UNFCCC for registration on 06/12/2012. However, the project proponent 
+did not pursue CDM registration thereafter. Currently, the project is being applied under UCR to 
+issue carbon credits and receive carbon financing. 
+
+__________
+The project has not been applied under any other greenhouse gas (GHG) mechanism except for 
+CDM. Additionally, for any period under UCR, CDM validation1
+ and verifications have not been conducted, and no credits have been issued. Therefore, the project will not cause double accounting 
+of carbon credits (i.e., COUs). 
+
 ______________________
 The BHORUKA POWER CORPORATION LTD 49.3 MW project in Karnataka, situated in 
 Bastwad, Birnal, Byakud, Nidgundi, Sansuddi, and Khandal Villages of Belgaum District, 
