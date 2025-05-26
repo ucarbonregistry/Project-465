@@ -110,3 +110,76 @@ ______________________
 28 Raibagh-I T28 4.41522 74.89207
 __________________
 29 Raibagh-I T29 4.416025 74.89287
+____________
+ISSUANCE DATE: 26/05/2025
+
+MP-01 : 13/05/20213-31/12/2024
+
+QTY: 825062
+__________
+Serial Number: 0001-000001-057534-UCR-CoU-IN-465-13052014-31122014
+
+Vintage Year: 2014
+
+Quantity: 57534
+________________
+Serial Number: 0001-057535-155809-UCR-CoU-IN-465-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 98275
+__________
+Serial Number: 0001-155810-259075-UCR-CoU-IN-465-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 103266
+____________
+Serial Number: 0001-259076-346731-UCR-CoU-IN-465-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 87656
+_______
+Serial Number: 0001-346732-428345-UCR-CoU-IN-465-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 81614
+_____________
+Serial Number: 0001-428346-496300-UCR-CoU-IN-465-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 67955
+____________
+Serial Number: 0001-496301-555701-UCR-CoU-IN-465-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 59401
+______________
+Serial Number: 0001-555702-615348-UCR-CoU-IN-465-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 59647
+__________
+Serial Number: 0001-615349-678055-UCR-CoU-IN-465-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 62707
+______________
+Serial Number: 0001-678056-759564-UCR-CoU-IN-465-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 81509
+_____________
+Serial Number: 0001-759565-825062-UCR-CoU-IN-465-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 65498
+________________
